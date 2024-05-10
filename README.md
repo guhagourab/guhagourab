@@ -15,7 +15,7 @@
 
 #### You can also find me on- 
 
-[<img align="left" alt="guhagourab | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="guhagourab | LinkedIn" width="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="guhagourab | medium" width="70px" src="https://miro.medium.com/v2/resize:fit:1200/1*jfdwtvU6V6g99q3G7gq7dQ.png"/>][medium]
 
 <br>
