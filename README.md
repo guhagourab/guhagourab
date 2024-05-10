@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There! Its nice to see you. How are you doing today ?</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There! Its nice to see you.</h2>
 <h2 align="left">I'm Gourab, an AI Project leader with an experience of around 14 years. I have done my fulltime International MBA and also a Computer science Engineer.</h2>
 
 ### I have technical experience and interest in -
@@ -13,8 +13,6 @@
 
 
 
-
-
 #### You can also find me on- 
 
 [<img align="left" alt="guhagourab | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
@@ -25,7 +23,7 @@
 
 [linkedin]: https://www.linkedin.com/in/gourab-guha/ 
 
-[<img align="left" alt="guhagourab | medium" width="50px" src="https://miro.medium.com/v2/resize:fit:1200/1*jfdwtvU6V6g99q3G7gq7dQ.png"/>][medium]
+[<img align="left" alt="guhagourab | medium" width="90px" src="https://miro.medium.com/v2/resize:fit:1200/1*jfdwtvU6V6g99q3G7gq7dQ.png"/>][medium]
 
 <br>
 
