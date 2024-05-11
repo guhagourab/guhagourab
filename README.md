@@ -25,6 +25,10 @@
 [linkedin]: https://www.linkedin.com/in/gourab-guha/ 
 [medium]: https://medium.com/@123gourab
 
+<p align="center">
+ <img width="1000" src="assets/commit-animation.svg" alt="snakecommit"/>
+</p>
+
 
 
 
