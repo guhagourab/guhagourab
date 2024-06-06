@@ -2,8 +2,8 @@
 <h2 align="left">I'm Gourab, an AI Professional with an experience of around 12 years. I have a fulltime International MBA and a Computer science Engineering degree.</h2>
 
 ### I have technical experience and interest in -
-* Project Management
 * Machine Learning
+* Project Management
 * Deep Learning
 
 ### My Hobbies and interests -
