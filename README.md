@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There! Its nice to see you.</h2>
-<h2 align="left">I'm Gourab, an AI Professional with an experience of around 12 years. I have a fulltime International MBA and a Computer science Engineering degree.</h2>
+<h2 align="left">I'm Gourab, an AI Professional with an experience of around 13 years. I have a fulltime International MBA and a Computer science Engineering degree.</h2>
 
 ### I have technical experience and interest in -
 * Machine Learning
