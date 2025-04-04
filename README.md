@@ -29,6 +29,8 @@
 
 <!--[![Gourab's github stats]![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guhagourab&theme=radical) -->
 
+![](https://komarev.com/ghpvc/?username=guhagourab&label=My+Profile+Views&base=5123&abbreviated=true)
+
 <hr>
 
 <p align="Center"> 
