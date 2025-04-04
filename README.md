@@ -26,9 +26,8 @@
 [medium]: https://medium.com/@123gourab
 
 <!-- GitHub stats -->
-<b>⚡ My GitHub Statistics</b>  
 
-[![Gourab's github stats]![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guhagourab&theme=radical)  
+<!--[![Gourab's github stats]![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guhagourab&theme=radical) -->
 
 <hr>
 
