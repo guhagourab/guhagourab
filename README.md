@@ -28,7 +28,7 @@
 <!-- GitHub stats -->
 <b>⚡ My GitHub Statistics</b>  
 
-[![Gourab's github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh27ind&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh27ind&&theme=gotham&hide=html&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Gourab's github stats]![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guhagourab&theme=radical)  
 
 <hr>
 
